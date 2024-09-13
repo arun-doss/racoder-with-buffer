@@ -1,3 +1,6 @@
+# It us a fork of [racoder](https://github.com/paulgalow/racoder), which adds a buffer size option to the existing code. 
+
+Thanks a lot to [Paul Galow](https://github.com/paulgalow) for this great work. 
 # 📻 racoder
 
 [![Docker Image](https://github.com/paulgalow/racoder/actions/workflows/docker-image.yml/badge.svg)](https://github.com/paulgalow/racoder/actions/workflows/docker-image.yml)
